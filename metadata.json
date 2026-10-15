@@ -1,0 +1,6 @@
+{
+  "name": "Conditionals Academy",
+  "description": "Master English Zero and First Conditional sentences through interactive lessons, clause matching, truth checks, and verb tense practice in an educational setting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
