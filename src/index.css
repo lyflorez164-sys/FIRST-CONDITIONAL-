@@ -1,1 +1,23 @@
+
 @import "tailwindcss";
+
+:root {
+  --brand: #34205c;
+  --primary: #7655e8;
+  --mint: #b9f4d2;
+  --yellow: #ffd76a;
+  --background: #fff8f0;
+  --text: #29213d;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background);
+  color: var(--text);
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
