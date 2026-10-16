@@ -10,11 +10,15 @@
   --text: #29213d;
 }
 
+
 body {
   margin: 0;
   background-color: var(--background);
   color: var(--text);
   font-family: "Trebuchet MS", Arial, sans-serif;
+  line-height: 1.6;
+}
+
 }
 
 button {
