@@ -10,7 +10,7 @@ import { LearnerStatsModal } from './components/LearnerStatsModal';
 import { BookOpen, CheckCircle, HelpCircle, Layers, Shuffle, Sparkles } from 'lucide-react';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState<string>('quiz');
+  const [activeTab, setActiveTab] = useState<string>('hero');
   const [isStatsModalOpen, setIsStatsModalOpen] = useState<boolean>(false);
   const [completedCount, setCompletedCount] = useState<number>(0);
 
